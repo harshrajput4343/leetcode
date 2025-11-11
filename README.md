@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshrajput4343/leetcode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/harshrajput4343/leetcode/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshrajput4343/leetcode/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/harshrajput4343/leetcode/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/harshrajput4343/leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
