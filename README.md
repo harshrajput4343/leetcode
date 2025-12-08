@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshrajput4343/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/harshrajput4343/leetcode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/harshrajput4343/leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/harshrajput4343/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/harshrajput4343/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/harshrajput4343/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/harshrajput4343/leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/harshrajput4343/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/harshrajput4343/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/harshrajput4343/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/harshrajput4343/leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/harshrajput4343/leetcode/tree/master/0088-merge-sorted-array) |
 ## Trie
 |  |
 | ------- |
