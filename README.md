@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshrajput4343/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/harshrajput4343/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harshrajput4343/leetcode/tree/master/0014-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshrajput4343/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/harshrajput4343/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/harshrajput4343/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/harshrajput4343/leetcode/tree/master/0189-rotate-array) |
@@ -74,5 +76,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshrajput4343/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/harshrajput4343/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
