@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/harshrajput4343/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/harshrajput4343/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/harshrajput4343/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0912-sort-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/harshrajput4343/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/harshrajput4343/leetcode/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshrajput4343/leetcode/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,4 +99,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshrajput4343/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
