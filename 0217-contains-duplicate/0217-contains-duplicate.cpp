@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        //Hash set (frequency set / seen set technique)
+     //Hash set (frequency set / seen set technique)
         unordered_set<int> st ;
 
         for(int x : nums){
