@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harshrajput4343/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/harshrajput4343/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/harshrajput4343/leetcode/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/harshrajput4343/leetcode/tree/master/0342-power-of-four) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/harshrajput4343/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/harshrajput4343/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/harshrajput4343/leetcode/tree/master/0342-power-of-four) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/harshrajput4343/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshrajput4343/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harshrajput4343/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/harshrajput4343/leetcode/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
