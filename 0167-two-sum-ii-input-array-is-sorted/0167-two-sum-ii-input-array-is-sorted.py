@@ -1,10 +1,11 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int ) -> List[int]:
+        nums = numbers
         left = 0
-        right = len(numbers) - 1 # python uses 0 based indexes 
+        right = len(nums) - 1 # python uses 0 based indexes 
         
         while (left <= right):
-            sum = numbers[left] + numbers[right]
+            sum = nums[left] + nums[right]
 
             if sum == target :
                 return[left + 1,right + 1]
