@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harshrajput4343/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/harshrajput4343/leetcode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/harshrajput4343/leetcode/tree/master/0342-power-of-four) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshrajput4343/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/harshrajput4343/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/harshrajput4343/leetcode/tree/master/0342-power-of-four) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshrajput4343/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harshrajput4343/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshrajput4343/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/harshrajput4343/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
 |  |
@@ -199,4 +201,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harshrajput4343/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshrajput4343/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
