@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/harshrajput4343/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/harshrajput4343/leetcode/tree/master/0342-power-of-four) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshrajput4343/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/harshrajput4343/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/harshrajput4343/leetcode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshrajput4343/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshrajput4343/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshrajput4343/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/harshrajput4343/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/harshrajput4343/leetcode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0912-sort-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshrajput4343/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Trie
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harshrajput4343/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/harshrajput4343/leetcode/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0912-sort-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshrajput4343/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Prefix Sum
 |  |
 | ------- |
