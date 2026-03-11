@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/harshrajput4343/leetcode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshrajput4343/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0941-valid-mountain-array](https://github.com/harshrajput4343/leetcode/tree/master/0941-valid-mountain-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshrajput4343/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshrajput4343/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
