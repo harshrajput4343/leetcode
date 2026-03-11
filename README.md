@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/harshrajput4343/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshrajput4343/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/harshrajput4343/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/harshrajput4343/leetcode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshrajput4343/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshrajput4343/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshrajput4343/leetcode/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/harshrajput4343/leetcode/tree/master/0739-daily-temperatures) |
 ## Quickselect
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshrajput4343/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/harshrajput4343/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
