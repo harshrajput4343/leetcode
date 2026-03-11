@@ -8,3 +8,14 @@ class Solution:
                 result.add(num)  # add to result (set keeps unique)
 
         return list(result)      # convert set to list
+
+
+
+
+
+#  I use hashing for efficient lookup.
+#  First I store elements of nums1 in a set.
+# Then I iterate through nums2 and check if the element exists in the set.
+#   If it does, I add it to a result set to maintain uniqueness.
+#   Finally I convert the set to a list and return it.
+#   Time complexity is O(n + m).
