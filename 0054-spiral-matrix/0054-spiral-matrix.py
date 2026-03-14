@@ -15,7 +15,7 @@ class Solution:
                 result += (matrix.pop()[::-1]) # last row element pop in reversed order eg 8 , 7
 
             if matrix and matrix[0]:
-                for row in matrix[::-1]:
+                for row in matrix[::-1]:   #important
                     result.append(row.pop(0))
 
         return result
