@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshrajput4343/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harshrajput4343/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshrajput4343/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/harshrajput4343/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/harshrajput4343/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/harshrajput4343/leetcode/tree/master/0229-majority-element-ii) |
@@ -175,10 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshrajput4343/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/harshrajput4343/leetcode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshrajput4343/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/harshrajput4343/leetcode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshrajput4343/leetcode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/harshrajput4343/leetcode/tree/master/0200-number-of-islands) |
 ## Design
 |  |
 | ------- |
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/harshrajput4343/leetcode/tree/master/1622-fancy-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harshrajput4343/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
