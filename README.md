@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harshrajput4343/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/harshrajput4343/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/harshrajput4343/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/harshrajput4343/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/harshrajput4343/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/harshrajput4343/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/harshrajput4343/leetcode/tree/master/0342-power-of-four) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshrajput4343/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/harshrajput4343/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/harshrajput4343/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshrajput4343/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/harshrajput4343/leetcode/tree/master/0322-coin-change) |
 | [0845-longest-mountain-in-array](https://github.com/harshrajput4343/leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -301,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/harshrajput4343/leetcode/tree/master/0845-longest-mountain-in-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/harshrajput4343/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
