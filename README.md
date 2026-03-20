@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshrajput4343/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshrajput4343/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshrajput4343/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshrajput4343/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshrajput4343/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshrajput4343/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshrajput4343/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshrajput4343/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Trie
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/harshrajput4343/leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/harshrajput4343/leetcode/tree/master/0200-number-of-islands) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshrajput4343/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshrajput4343/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Design
 |  |
 | ------- |
