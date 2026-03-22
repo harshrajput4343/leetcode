@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshrajput4343/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/harshrajput4343/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/harshrajput4343/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/harshrajput4343/leetcode/tree/master/0739-daily-temperatures) |
 ## Quickselect
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/harshrajput4343/leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/harshrajput4343/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1622-fancy-sequence](https://github.com/harshrajput4343/leetcode/tree/master/1622-fancy-sequence) |
 ## Segment Tree
