@@ -6,8 +6,8 @@ class Solution:
             if t not in "+-*/":
                 stack.append(int(t))  #stack me append kar denge int me convert kar ke
             else:
-                r = stack.pop()
-                l = stack.pop()
+                r = stack.pop() # 1st right ie 2nd element pop
+                l = stack.pop() # 2nd left ie 1st element pop
                 if t == "+":
                     stack.append(l+r)
                 elif t == '-':
