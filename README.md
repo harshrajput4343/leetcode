@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/harshrajput4343/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshrajput4343/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshrajput4343/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshrajput4343/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshrajput4343/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshrajput4343/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshrajput4343/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/harshrajput4343/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/harshrajput4343/leetcode/tree/master/0338-counting-bits) |
 | [0845-longest-mountain-in-array](https://github.com/harshrajput4343/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshrajput4343/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshrajput4343/leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/harshrajput4343/leetcode/tree/master/0200-number-of-islands) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshrajput4343/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshrajput4343/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshrajput4343/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshrajput4343/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
