@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshrajput4343/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshrajput4343/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/harshrajput4343/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3546-equal-sum-grid-partition-i](https://github.com/harshrajput4343/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshrajput4343/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
 |  |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/harshrajput4343/leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshrajput4343/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshrajput4343/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3546-equal-sum-grid-partition-i](https://github.com/harshrajput4343/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Stack
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshrajput4343/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshrajput4343/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshrajput4343/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3546-equal-sum-grid-partition-i](https://github.com/harshrajput4343/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshrajput4343/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Design
 |  |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/harshrajput4343/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [3546-equal-sum-grid-partition-i](https://github.com/harshrajput4343/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Memoization
 |  |
 | ------- |
