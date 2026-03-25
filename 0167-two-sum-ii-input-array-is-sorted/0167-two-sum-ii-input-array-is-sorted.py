@@ -4,7 +4,7 @@ class Solution:
         left = 0
         right = n - 1  # python uses 0 based indexes
         # use 2 pointer
-        while (left < right):
+        while (left <= right):
             current_sum = numbers[left] + numbers[right]
 
             if current_sum == target:
