@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshrajput4343/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshrajput4343/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/harshrajput4343/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2573-find-the-string-with-lcp](https://github.com/harshrajput4343/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshrajput4343/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/harshrajput4343/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshrajput4343/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harshrajput4343/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshrajput4343/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshrajput4343/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2573-find-the-string-with-lcp](https://github.com/harshrajput4343/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/harshrajput4343/leetcode/tree/master/0338-counting-bits) |
 | [0845-longest-mountain-in-array](https://github.com/harshrajput4343/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshrajput4343/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2573-find-the-string-with-lcp](https://github.com/harshrajput4343/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Tree
 |  |
 | ------- |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/harshrajput4343/leetcode/tree/master/0455-assign-cookies) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshrajput4343/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2573-find-the-string-with-lcp](https://github.com/harshrajput4343/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshrajput4343/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshrajput4343/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshrajput4343/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/harshrajput4343/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshrajput4343/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/harshrajput4343/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshrajput4343/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -368,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/harshrajput4343/leetcode/tree/master/0200-number-of-islands) |
+| [2573-find-the-string-with-lcp](https://github.com/harshrajput4343/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Enumeration
 |  |
 | ------- |
