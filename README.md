@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshrajput4343/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshrajput4343/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2573-find-the-string-with-lcp](https://github.com/harshrajput4343/leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/harshrajput4343/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
