@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshrajput4343/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/harshrajput4343/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2573-find-the-string-with-lcp](https://github.com/harshrajput4343/leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2751-robot-collisions](https://github.com/harshrajput4343/leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshrajput4343/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/harshrajput4343/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshrajput4343/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshrajput4343/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshrajput4343/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshrajput4343/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2751-robot-collisions](https://github.com/harshrajput4343/leetcode/tree/master/2751-robot-collisions) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshrajput4343/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Trie
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/harshrajput4343/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/harshrajput4343/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/harshrajput4343/leetcode/tree/master/0739-daily-temperatures) |
+| [2751-robot-collisions](https://github.com/harshrajput4343/leetcode/tree/master/2751-robot-collisions) |
 ## Quickselect
 |  |
 | ------- |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshrajput4343/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshrajput4343/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2073-time-needed-to-buy-tickets](https://github.com/harshrajput4343/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2751-robot-collisions](https://github.com/harshrajput4343/leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshrajput4343/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
