@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/harshrajput4343/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/harshrajput4343/leetcode/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/harshrajput4343/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0874-walking-robot-simulation](https://github.com/harshrajput4343/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshrajput4343/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-valid-mountain-array](https://github.com/harshrajput4343/leetcode/tree/master/0941-valid-mountain-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/harshrajput4343/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshrajput4343/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0874-walking-robot-simulation](https://github.com/harshrajput4343/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshrajput4343/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshrajput4343/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshrajput4343/leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/harshrajput4343/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/harshrajput4343/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harshrajput4343/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshrajput4343/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshrajput4343/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
