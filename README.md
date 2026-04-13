@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/harshrajput4343/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harshrajput4343/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harshrajput4343/leetcode/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/harshrajput4343/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/harshrajput4343/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/harshrajput4343/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harshrajput4343/leetcode/tree/master/0242-valid-anagram) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/harshrajput4343/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/harshrajput4343/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/harshrajput4343/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/harshrajput4343/leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshrajput4343/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/harshrajput4343/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/harshrajput4343/leetcode/tree/master/0338-counting-bits) |
