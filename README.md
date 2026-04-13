@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/harshrajput4343/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/harshrajput4343/leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/harshrajput4343/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/harshrajput4343/leetcode/tree/master/0394-decode-string) |
 | [0657-robot-return-to-origin](https://github.com/harshrajput4343/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0784-letter-case-permutation](https://github.com/harshrajput4343/leetcode/tree/master/0784-letter-case-permutation) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshrajput4343/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/harshrajput4343/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/harshrajput4343/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/harshrajput4343/leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/harshrajput4343/leetcode/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshrajput4343/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Binary Search
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/harshrajput4343/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/harshrajput4343/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/harshrajput4343/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/harshrajput4343/leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/harshrajput4343/leetcode/tree/master/0739-daily-temperatures) |
 | [2751-robot-collisions](https://github.com/harshrajput4343/leetcode/tree/master/2751-robot-collisions) |
 ## Quickselect
