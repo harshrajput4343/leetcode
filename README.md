@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/harshrajput4343/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshrajput4343/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harshrajput4343/leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/harshrajput4343/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/harshrajput4343/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/harshrajput4343/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshrajput4343/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/harshrajput4343/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/harshrajput4343/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/harshrajput4343/leetcode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/harshrajput4343/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/harshrajput4343/leetcode/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/harshrajput4343/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0784-letter-case-permutation](https://github.com/harshrajput4343/leetcode/tree/master/0784-letter-case-permutation) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harshrajput4343/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshrajput4343/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshrajput4343/leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/harshrajput4343/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/harshrajput4343/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/harshrajput4343/leetcode/tree/master/0229-majority-element-ii) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/harshrajput4343/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/harshrajput4343/leetcode/tree/master/0455-assign-cookies) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshrajput4343/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2573-find-the-string-with-lcp](https://github.com/harshrajput4343/leetcode/tree/master/2573-find-the-string-with-lcp) |
