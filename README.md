@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshrajput4343/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harshrajput4343/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harshrajput4343/leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/harshrajput4343/leetcode/tree/master/0113-path-sum-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/harshrajput4343/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshrajput4343/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshrajput4343/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harshrajput4343/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harshrajput4343/leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/harshrajput4343/leetcode/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/harshrajput4343/leetcode/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/harshrajput4343/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshrajput4343/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshrajput4343/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harshrajput4343/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harshrajput4343/leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/harshrajput4343/leetcode/tree/master/0113-path-sum-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/harshrajput4343/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshrajput4343/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Heap (Priority Queue)
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/harshrajput4343/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/harshrajput4343/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/harshrajput4343/leetcode/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/harshrajput4343/leetcode/tree/master/0113-path-sum-ii) |
 | [0784-letter-case-permutation](https://github.com/harshrajput4343/leetcode/tree/master/0784-letter-case-permutation) |
 ## Queue
 |  |
