@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/harshrajput4343/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshrajput4343/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/harshrajput4343/leetcode/tree/master/0455-assign-cookies) |
+| [0503-next-greater-element-ii](https://github.com/harshrajput4343/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/harshrajput4343/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshrajput4343/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/harshrajput4343/leetcode/tree/master/0724-find-pivot-index) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/harshrajput4343/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/harshrajput4343/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/harshrajput4343/leetcode/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/harshrajput4343/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/harshrajput4343/leetcode/tree/master/0739-daily-temperatures) |
 | [2751-robot-collisions](https://github.com/harshrajput4343/leetcode/tree/master/2751-robot-collisions) |
 ## Quickselect
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/harshrajput4343/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/harshrajput4343/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/harshrajput4343/leetcode/tree/master/0739-daily-temperatures) |
 ## Geometry
 |  |
